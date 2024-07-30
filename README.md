@@ -1,2 +1,3 @@
 # Inventory_Managment_System
-A small database driven Inventory managment system application that i made during my learning process of Django framework
+The Inventory Management System is a robust web application developed using Django, designed to streamline the management of inventory products. It features comprehensive CRUD operations, allowing users to create, read, update, and delete product entries. The system includes user authentication functionalities such as registration, login, logout, and password reset to ensure secure access. Built with a MySQL database for reliable data storage, this application offers an intuitive interface for efficient inventory management. Whether you're adding new products, updating existing ones, or simply browsing through the inventory, this system provides a seamless user experience to keep your inventory well-organized and up-to-date
+
